@@ -1,0 +1,976 @@
+[I 11:20:22.002 NotebookApp] Writing notebook server cookie secret to /home/pi/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 11:20:22.685 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 11:20:22.686 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 11:20:22.696 NotebookApp] Serving notebooks from local directory: /home/pi/git/bumper/src
+[I 11:20:22.696 NotebookApp] The Jupyter Notebook is running at:
+[I 11:20:22.696 NotebookApp] http://raspberrypi:8888/
+[I 11:20:22.696 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 11:20:22.707 NotebookApp] No web browser found: could not locate runnable browser.
+[I 11:20:48.728 NotebookApp] 302 GET / (192.168.1.2) 2.57ms
+[I 11:21:18.478 NotebookApp] Creating new notebook in 
+[I 11:21:18.505 NotebookApp] Writing notebook-signing key to /home/pi/.local/share/jupyter/notebook_secret
+[I 11:21:20.374 NotebookApp] Kernel started: 5e8c3a4e-1f32-4b14-959b-23d3f800d25d
+[I 11:23:20.349 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:24:51.027 NotebookApp] Starting buffering for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:e435ddbf179a49cf8b739f2abe091c04
+[I 11:24:51.452 NotebookApp] Kernel restarted: 5e8c3a4e-1f32-4b14-959b-23d3f800d25d
+[I 11:24:52.630 NotebookApp] Restoring connection for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:e435ddbf179a49cf8b739f2abe091c04
+[I 11:24:52.630 NotebookApp] Replaying 6 buffered messages
+[I 11:25:20.346 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:27:20.407 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:29:21.273 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:31:20.516 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:35:20.527 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:37:20.609 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:39:23.964 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:41:22.418 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:43:20.379 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:45:20.352 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:47:20.414 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:48:36.580 NotebookApp] Creating new notebook in 
+[I 11:48:37.797 NotebookApp] Kernel started: dfdf0acb-5803-467e-81f4-07c539116dae
+[I 11:49:29.091 NotebookApp] Creating new notebook in 
+[I 11:49:29.923 NotebookApp] Kernel started: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6
+[I 11:50:38.559 NotebookApp] Saving file at /Untitled1.ipynb
+[I 11:51:30.515 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 11:52:37.846 NotebookApp] Saving file at /加水.ipynb
+[I 11:53:20.461 NotebookApp] Saving file at /图像增强.ipynb
+[I 11:53:30.513 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 11:54:38.521 NotebookApp] Saving file at /加水.ipynb
+[I 11:55:20.393 NotebookApp] Saving file at /图像增强.ipynb
+[I 11:57:20.484 NotebookApp] Saving file at /图像增强.ipynb
+[I 11:59:20.383 NotebookApp] Saving file at /图像增强.ipynb
+mmal: Frame 6 is 62 ms late
+mmal: Frame 7 is 147 ms late
+mmal: Frame 8 is 233 ms late
+mmal: Frame 9 is 318 ms late
+mmal: Frame 10 is 404 ms late
+mmal: Frame 11 is 489 ms late
+mmal: Skipping frame 12 to restart at frame 13
+[I 12:01:29.973 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 12:03:29.980 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 12:05:21.359 NotebookApp] Saving file at /图像增强.ipynb
+[I 12:06:38.629 NotebookApp] Saving file at /加水.ipynb
+[I 12:07:20.392 NotebookApp] Saving file at /图像增强.ipynb
+[I 12:09:20.385 NotebookApp] Saving file at /图像增强.ipynb
+[I 12:11:20.349 NotebookApp] Saving file at /图像增强.ipynb
+[I 12:13:20.358 NotebookApp] Saving file at /图像增强.ipynb
+[I 12:15:20.353 NotebookApp] Saving file at /图像增强.ipynb
+[I 12:17:20.334 NotebookApp] Saving file at /图像增强.ipynb
+[I 12:21:20.548 NotebookApp] Saving file at /图像增强.ipynb
+[I 12:23:20.372 NotebookApp] Saving file at /图像增强.ipynb
+[I 12:25:20.351 NotebookApp] Saving file at /图像增强.ipynb
+[I 12:27:20.373 NotebookApp] Saving file at /图像增强.ipynb
+[I 12:29:20.365 NotebookApp] Saving file at /图像增强.ipynb
+[I 12:31:20.603 NotebookApp] Saving file at /图像增强.ipynb
+[I 12:33:20.338 NotebookApp] Saving file at /图像增强.ipynb
+[I 12:43:20.307 NotebookApp] Saving file at /图像增强.ipynb
+[I 12:44:04.278 NotebookApp] Saving file at /图像增强.ipynb
+[W 12:58:54.475 NotebookApp] Replacing stale connection: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:ffb912c6d5144313900bafe5cf8d4f8e
+[I 12:58:59.478 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:ffb912c6d5144313900bafe5cf8d4f8e
+[I 12:58:59.483 NotebookApp] Restoring connection for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:ffb912c6d5144313900bafe5cf8d4f8e
+[W 12:58:59.513 NotebookApp] Replacing stale connection: dfdf0acb-5803-467e-81f4-07c539116dae:75efd97f2ab84b8b80d32e23b1fe38a9
+[I 12:59:04.516 NotebookApp] Starting buffering for dfdf0acb-5803-467e-81f4-07c539116dae:75efd97f2ab84b8b80d32e23b1fe38a9
+[I 12:59:04.521 NotebookApp] Restoring connection for dfdf0acb-5803-467e-81f4-07c539116dae:75efd97f2ab84b8b80d32e23b1fe38a9
+[I 14:22:10.982 NotebookApp] Starting buffering for dfdf0acb-5803-467e-81f4-07c539116dae:75efd97f2ab84b8b80d32e23b1fe38a9
+[I 14:22:10.985 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:ffb912c6d5144313900bafe5cf8d4f8e
+[I 14:22:10.987 NotebookApp] Starting buffering for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:e435ddbf179a49cf8b739f2abe091c04
+[I 15:02:39.390 NotebookApp] Restoring connection for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:e435ddbf179a49cf8b739f2abe091c04
+[I 15:02:39.443 NotebookApp] Restoring connection for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:ffb912c6d5144313900bafe5cf8d4f8e
+[I 15:02:39.484 NotebookApp] Restoring connection for dfdf0acb-5803-467e-81f4-07c539116dae:75efd97f2ab84b8b80d32e23b1fe38a9
+[I 15:23:21.001 NotebookApp] Saving file at /图像增强.ipynb
+[I 15:25:20.992 NotebookApp] Saving file at /图像增强.ipynb
+[I 15:31:21.003 NotebookApp] Saving file at /图像增强.ipynb
+[I 15:33:08.352 NotebookApp] Saving file at /图像增强.ipynb
+[I 15:35:20.971 NotebookApp] Saving file at /图像增强.ipynb
+[I 16:04:38.440 NotebookApp] Saving file at /加水.ipynb
+[I 16:06:39.181 NotebookApp] Saving file at /加水.ipynb
+[I 17:05:03.910 NotebookApp] Starting buffering for dfdf0acb-5803-467e-81f4-07c539116dae:75efd97f2ab84b8b80d32e23b1fe38a9
+[I 17:05:03.913 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:ffb912c6d5144313900bafe5cf8d4f8e
+[I 17:05:03.914 NotebookApp] Starting buffering for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:e435ddbf179a49cf8b739f2abe091c04
+[I 23:31:38.402 NotebookApp] Restoring connection for dfdf0acb-5803-467e-81f4-07c539116dae:75efd97f2ab84b8b80d32e23b1fe38a9
+[I 23:31:38.454 NotebookApp] Restoring connection for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:ffb912c6d5144313900bafe5cf8d4f8e
+[I 23:31:41.461 NotebookApp] Restoring connection for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:e435ddbf179a49cf8b739f2abe091c04
+[I 23:31:52.349 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:ffb912c6d5144313900bafe5cf8d4f8e
+[I 23:31:52.352 NotebookApp] Starting buffering for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:e435ddbf179a49cf8b739f2abe091c04
+[I 23:31:52.353 NotebookApp] Starting buffering for dfdf0acb-5803-467e-81f4-07c539116dae:75efd97f2ab84b8b80d32e23b1fe38a9
+[I 22:54:19.832 NotebookApp] 302 GET / (192.168.1.2) 1.84ms
+[I 22:56:43.832 NotebookApp] Saving file at /图像增强.ipynb
+[I 23:05:34.977 NotebookApp] Starting buffering for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:0687ae1fb4db4751803509c0dbfa1983
+[I 23:05:36.024 NotebookApp] Restoring connection for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:0687ae1fb4db4751803509c0dbfa1983
+[W 23:07:06.025 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 23:07:11.028 NotebookApp] Starting buffering for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:0687ae1fb4db4751803509c0dbfa1983
+[I 23:11:35.096 NotebookApp] 302 GET / (192.168.1.2) 1.36ms
+[I 23:16:05.797 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 23:18:05.978 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 23:22:05.788 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 23:22:52.356 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 23:24:05.850 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 23:26:05.814 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 23:27:42.654 NotebookApp] Saving file at /加水.ipynb
+[I 23:28:05.776 NotebookApp] Saving file at /生成训练数据.ipynb
+mmal: [I 23:29:18.399 NotebookApp] Kernel interrupted: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6
+Aborting program
+
+[I 23:29:42.673 NotebookApp] Saving file at /加水.ipynb
+[I 23:30:05.775 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 23:34:11.748 NotebookApp] Saving file at /图像增强.ipynb
+[I 23:36:11.729 NotebookApp] Saving file at /图像增强.ipynb
+[W 23:51:10.973 NotebookApp] Replacing stale connection: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:6525ab578b2243a48dc16e41ca82f44d
+[W 23:51:16.018 NotebookApp] Replacing stale connection: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:28ad0abcaf5f40948aab5dbdf8fe1810
+[W 23:51:16.022 NotebookApp] zmq message arrived on closed channel
+[W 23:51:16.036 NotebookApp] zmq message arrived on closed channel
+[W 23:51:21.080 NotebookApp] Replacing stale connection: dfdf0acb-5803-467e-81f4-07c539116dae:fe7f210225df487fb25bebe8a6435188
+[I 23:51:26.088 NotebookApp] Starting buffering for dfdf0acb-5803-467e-81f4-07c539116dae:fe7f210225df487fb25bebe8a6435188
+[I 23:51:26.093 NotebookApp] Restoring connection for dfdf0acb-5803-467e-81f4-07c539116dae:fe7f210225df487fb25bebe8a6435188
+[W 23:51:26.180 NotebookApp] Replacing stale connection: 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:9fc3a41d352942608a3ecf86ffc055d0
+[I 23:51:31.183 NotebookApp] Starting buffering for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:9fc3a41d352942608a3ecf86ffc055d0
+[I 23:51:31.188 NotebookApp] Restoring connection for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:9fc3a41d352942608a3ecf86ffc055d0
+[I 00:06:25.086 NotebookApp] Starting buffering for dfdf0acb-5803-467e-81f4-07c539116dae:fe7f210225df487fb25bebe8a6435188
+[I 00:06:25.090 NotebookApp] Starting buffering for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:9fc3a41d352942608a3ecf86ffc055d0
+[I 00:06:25.097 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:6525ab578b2243a48dc16e41ca82f44d
+[I 08:27:37.429 NotebookApp] Starting buffering for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:0687ae1fb4db4751803509c0dbfa1983
+[I 08:27:38.746 NotebookApp] Restoring connection for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:0687ae1fb4db4751803509c0dbfa1983
+[W 08:29:08.749 NotebookApp] WebSocket ping timeout after 90003 ms.
+[I 08:29:13.753 NotebookApp] Starting buffering for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:0687ae1fb4db4751803509c0dbfa1983
+[W 11:09:57.105 NotebookApp] Replacing stale connection: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:83075667be0d4cd78554a11e3fa9d15a
+[W 11:10:02.140 NotebookApp] Replacing stale connection: 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:0505eccb87b641f5a673be13caf1291e
+[I 11:10:07.143 NotebookApp] Starting buffering for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:0505eccb87b641f5a673be13caf1291e
+[I 11:10:07.148 NotebookApp] Restoring connection for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:0505eccb87b641f5a673be13caf1291e
+[W 11:10:07.185 NotebookApp] Replacing stale connection: dfdf0acb-5803-467e-81f4-07c539116dae:4bfc96a18b3247bf843132e524734758
+[I 11:10:12.189 NotebookApp] Starting buffering for dfdf0acb-5803-467e-81f4-07c539116dae:4bfc96a18b3247bf843132e524734758
+[I 11:10:12.193 NotebookApp] Restoring connection for dfdf0acb-5803-467e-81f4-07c539116dae:4bfc96a18b3247bf843132e524734758
+[W 11:10:12.260 NotebookApp] Replacing stale connection: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:f403043ac73944f3bafc20a5c967cc82
+[I 11:20:16.102 NotebookApp] Starting buffering for dfdf0acb-5803-467e-81f4-07c539116dae:4bfc96a18b3247bf843132e524734758
+[I 11:20:16.103 NotebookApp] Starting buffering for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:0505eccb87b641f5a673be13caf1291e
+[I 11:20:16.104 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:83075667be0d4cd78554a11e3fa9d15a
+[I 23:41:43.145 NotebookApp] Restoring connection for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:83075667be0d4cd78554a11e3fa9d15a
+[I 23:41:43.201 NotebookApp] Restoring connection for dfdf0acb-5803-467e-81f4-07c539116dae:4bfc96a18b3247bf843132e524734758
+[I 23:41:43.279 NotebookApp] Restoring connection for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:0505eccb87b641f5a673be13caf1291e
+[I 23:43:47.429 NotebookApp] Starting buffering for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:0505eccb87b641f5a673be13caf1291e
+[I 23:43:47.430 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:83075667be0d4cd78554a11e3fa9d15a
+[I 23:43:47.431 NotebookApp] Starting buffering for dfdf0acb-5803-467e-81f4-07c539116dae:4bfc96a18b3247bf843132e524734758
+[I 09:41:54.211 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 09:43:54.314 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 09:45:54.237 NotebookApp] Saving file at /生成训练数据.ipynb
+mmal: Aborting program
+
+[I 09:49:20.757 NotebookApp] Kernel interrupted: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6
+[I 09:49:29.369 NotebookApp] Kernel interrupted: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6
+[I 09:49:46.675 NotebookApp] Kernel interrupted: dfdf0acb-5803-467e-81f4-07c539116dae
+[I 09:49:54.223 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 09:49:55.852 NotebookApp] Saving file at /加水.ipynb
+[I 09:51:54.211 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 09:53:54.466 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 10:11:54.512 NotebookApp] Saving file at /图像增强.ipynb
+[I 10:13:54.501 NotebookApp] Saving file at /图像增强.ipynb
+[I 10:15:54.490 NotebookApp] Saving file at /图像增强.ipynb
+[I 10:17:54.206 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 10:18:40.431 NotebookApp] Starting buffering for dfdf0acb-5803-467e-81f4-07c539116dae:07beb52caa2842b8ae494282a6df6509
+[I 10:19:54.486 NotebookApp] Saving file at /图像增强.ipynb
+[I 10:19:55.124 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 10:21:54.639 NotebookApp] Saving file at /图像增强.ipynb
+[I 10:21:54.824 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 10:23:54.576 NotebookApp] Saving file at /图像增强.ipynb
+[W 10:25:54.207 NotebookApp] WebSocket ping timeout after 119995 ms.
+[W 10:25:54.560 NotebookApp] WebSocket ping timeout after 119906 ms.
+[I 10:25:59.210 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:7c5b518aedf64bdb8048e7b47542423b
+[I 10:25:59.563 NotebookApp] Starting buffering for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:e33dd4fabfef48508c0ae5ed083e6ca0
+[I 12:02:58.020 NotebookApp] 302 GET / (192.168.1.2) 1.95ms
+[I 12:03:03.147 NotebookApp] Starting buffering for dfdf0acb-5803-467e-81f4-07c539116dae:383cc3862ec54278a644c73c994472b4
+[W 12:58:26.720 NotebookApp] Replacing stale connection: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:b414533cdfe9447486fe2a29ac449b17
+[I 12:58:31.724 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:b414533cdfe9447486fe2a29ac449b17
+[I 12:58:31.728 NotebookApp] Restoring connection for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:b414533cdfe9447486fe2a29ac449b17
+[I 13:01:57.472 NotebookApp] Saving file at /图像增强.ipynb
+[W 13:02:31.730 NotebookApp] WebSocket ping timeout after 119995 ms.
+[I 13:02:36.733 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:b414533cdfe9447486fe2a29ac449b17
+[W 13:10:44.416 NotebookApp] Replacing stale connection: 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:a543de1b94d74e488e9f64a2a77e056b
+[I 13:10:49.420 NotebookApp] Starting buffering for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:a543de1b94d74e488e9f64a2a77e056b
+[I 13:10:49.424 NotebookApp] Restoring connection for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:a543de1b94d74e488e9f64a2a77e056b
+[I 13:10:52.824 NotebookApp] Restoring connection for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:b414533cdfe9447486fe2a29ac449b17
+[I 13:39:05.782 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 13:41:05.773 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 13:43:05.720 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 16:27:06.610 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 16:29:06.641 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 16:35:19.426 NotebookApp] WebSocket ping timeout after 119995 ms.
+[W 16:35:22.825 NotebookApp] WebSocket ping timeout after 119995 ms.
+[I 16:35:24.429 NotebookApp] Starting buffering for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:a543de1b94d74e488e9f64a2a77e056b
+[I 16:35:27.828 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:b414533cdfe9447486fe2a29ac449b17
+[I 16:36:54.751 NotebookApp] Restoring connection for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:a543de1b94d74e488e9f64a2a77e056b
+[I 16:37:07.771 NotebookApp] Restoring connection for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:b414533cdfe9447486fe2a29ac449b17
+[W 16:37:58.174 NotebookApp] Replacing stale connection: 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:a543de1b94d74e488e9f64a2a77e056b
+[I 16:38:03.176 NotebookApp] Starting buffering for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:a543de1b94d74e488e9f64a2a77e056b
+[I 16:38:03.181 NotebookApp] Restoring connection for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:a543de1b94d74e488e9f64a2a77e056b
+[I 17:41:05.617 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 17:43:05.608 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 17:45:05.603 NotebookApp] Saving file at /生成训练数据.ipynb
+mmal: Aborting program
+
+[I 17:45:17.303 NotebookApp] Kernel interrupted: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6
+[I 17:47:06.567 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 20:57:53.490 NotebookApp] Replacing stale connection: 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:a543de1b94d74e488e9f64a2a77e056b
+[I 20:57:58.494 NotebookApp] Starting buffering for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:a543de1b94d74e488e9f64a2a77e056b
+[I 20:57:58.499 NotebookApp] Restoring connection for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:a543de1b94d74e488e9f64a2a77e056b
+[I 22:07:42.834 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:b414533cdfe9447486fe2a29ac449b17
+[I 22:07:42.841 NotebookApp] Starting buffering for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:a543de1b94d74e488e9f64a2a77e056b
+[I 11:26:18.962 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 11:28:19.585 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 11:30:19.579 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 13:17:57.752 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:c8c616c8712d45ac81b2c28486d2f324
+[I 13:17:57.754 NotebookApp] Starting buffering for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:8c2b1cf5bd7945a4806776eda31d8054
+[I 14:36:33.438 NotebookApp] Restoring connection for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:8c2b1cf5bd7945a4806776eda31d8054
+[I 14:36:33.483 NotebookApp] Restoring connection for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:c8c616c8712d45ac81b2c28486d2f324
+[I 15:29:10.938 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:c8c616c8712d45ac81b2c28486d2f324
+[I 15:29:10.943 NotebookApp] Starting buffering for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:8c2b1cf5bd7945a4806776eda31d8054
+[I 19:20:06.618 NotebookApp] 302 GET / (192.168.1.2) 2.00ms
+[I 19:22:15.662 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 19:23:16.199 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:06beddf34e2b44dd8ccd58822fc2d8c8
+[I 19:23:17.249 NotebookApp] Restoring connection for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:06beddf34e2b44dd8ccd58822fc2d8c8
+[I 19:24:06.921 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:06beddf34e2b44dd8ccd58822fc2d8c8
+[I 19:24:08.621 NotebookApp] Restoring connection for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:06beddf34e2b44dd8ccd58822fc2d8c8
+[I 19:26:26.296 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 19:28:26.302 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 20:21:21.907 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:06beddf34e2b44dd8ccd58822fc2d8c8
+[I 13:41:49.850 NotebookApp] 302 GET / (192.168.1.2) 1.88ms
+[I 13:43:54.536 NotebookApp] Saving file at /图像增强.ipynb
+[I 13:45:27.804 NotebookApp] Starting buffering for 5e8c3a4e-1f32-4b14-959b-23d3f800d25d:6f96e536fd5040448e06bda74826b363
+[I 13:47:31.275 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 13:49:31.274 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 13:55:31.273 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 13:57:31.284 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 14:38:34.903 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:60706321170a410383d7046501abc738
+[I 14:38:36.549 NotebookApp] Restoring connection for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:60706321170a410383d7046501abc738
+[I 14:45:36.023 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:60706321170a410383d7046501abc738
+[I 14:20:50.758 NotebookApp] 302 GET / (192.168.1.2) 0.92ms
+[I 14:22:55.385 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 14:24:55.475 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 14:30:00.193 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:7c5caed096984a578bb67f9af6b93b1f
+[I 21:19:54.457 NotebookApp] 302 GET / (192.168.1.2) 2.87ms
+[I 21:21:59.689 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 21:23:59.527 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 21:25:20.448 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:2612545b91334c0d82df33b224e2e283
+[I 21:33:02.360 NotebookApp] 302 GET / (192.168.1.2) 1.88ms
+[I 21:35:06.550 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 21:37:06.546 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 21:37:58.219 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:b72ea2ae1b124701895bef7feca215c3
+[I 21:37:59.259 NotebookApp] Restoring connection for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:b72ea2ae1b124701895bef7feca215c3
+[W 21:40:29.261 NotebookApp] WebSocket ping timeout after 119867 ms.
+[I 21:40:34.264 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:b72ea2ae1b124701895bef7feca215c3
+[I 22:36:44.997 NotebookApp] Restoring connection for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:b72ea2ae1b124701895bef7feca215c3
+[I 23:20:19.415 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:b72ea2ae1b124701895bef7feca215c3
+[I 23:20:21.005 NotebookApp] Restoring connection for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:b72ea2ae1b124701895bef7feca215c3
+[W 23:22:51.008 NotebookApp] WebSocket ping timeout after 119908 ms.
+[I 23:22:56.010 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:b72ea2ae1b124701895bef7feca215c3
+[I 05:04:46.608 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 05:06:46.603 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 08:58:46.682 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 13:58:46.805 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 14:00:46.808 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 20:08:47.070 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 20:12:47.986 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 21:55:04.218 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:1fdefd791f8245169f8d05db5dbe9440
+[I 21:55:06.376 NotebookApp] Restoring connection for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:1fdefd791f8245169f8d05db5dbe9440
+[W 21:57:36.377 NotebookApp] WebSocket ping timeout after 119906 ms.
+[I 21:57:41.380 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:1fdefd791f8245169f8d05db5dbe9440
+[I 09:48:32.495 NotebookApp] Restoring connection for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:1fdefd791f8245169f8d05db5dbe9440
+[W 10:47:02.496 NotebookApp] WebSocket ping timeout after 119968 ms.
+[I 10:47:07.500 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:1fdefd791f8245169f8d05db5dbe9440
+[I 16:04:59.810 NotebookApp] Kernel interrupted: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6
+[I 16:05:53.211 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 16:06:31.245 NotebookApp] Restoring connection for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:1fdefd791f8245169f8d05db5dbe9440
+[I 16:42:30.566 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:1fdefd791f8245169f8d05db5dbe9440
+[I 16:42:35.918 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:6e6d0f34bc584017bc856dd672ef6751
+[I 16:42:36.440 NotebookApp] Kernel restarted: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6
+[I 16:42:37.634 NotebookApp] Restoring connection for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:6e6d0f34bc584017bc856dd672ef6751
+[I 16:42:37.634 NotebookApp] Replaying 6 buffered messages
+[I 16:44:31.286 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 16:46:31.291 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 19:22:31.418 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 19:24:31.431 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 09:33:41.829 NotebookApp] 302 GET / (192.168.1.2) 2.31ms
+[I 09:35:46.078 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 09:37:46.116 NotebookApp] WebSocket ping timeout after 119925 ms.
+[I 11:27:14.496 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 15:38:29.333 NotebookApp] 302 GET / (192.168.1.2) 2.01ms
+[I 15:40:34.927 NotebookApp] Saving file at /生成训练数据.ipynb
+mmal: Aborting program
+
+[I 15:41:09.130 NotebookApp] Kernel interrupted: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6
+[I 15:42:34.777 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 15:45:54.970 NotebookApp] Replacing stale connection: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:3ff0549e013f4c238b79742ed1529ac1
+[W 18:35:15.667 NotebookApp] WebSocket ping timeout after 119993 ms.
+[W 19:09:43.182 NotebookApp] WebSocket ping timeout after 119993 ms.
+[W 19:22:21.221 NotebookApp] Replacing stale connection: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:3ff0549e013f4c238b79742ed1529ac1
+[I 19:22:26.224 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:3ff0549e013f4c238b79742ed1529ac1
+[I 19:22:26.229 NotebookApp] Restoring connection for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:3ff0549e013f4c238b79742ed1529ac1
+[I 20:08:13.915 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:3ff0549e013f4c238b79742ed1529ac1
+[I 21:50:28.881 NotebookApp] Restoring connection for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:3ff0549e013f4c238b79742ed1529ac1
+[I 21:50:35.413 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:3ff0549e013f4c238b79742ed1529ac1
+[W 23:05:08.258 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 23:05:13.261 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:6e6d0f34bc584017bc856dd672ef6751
+[I 08:48:17.920 NotebookApp] Restoring connection for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:6e6d0f34bc584017bc856dd672ef6751
+mmal: Aborting program
+
+[I 14:17:36.525 NotebookApp] Kernel interrupted: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6
+[I 15:29:53.173 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:6e6d0f34bc584017bc856dd672ef6751
+[I 19:29:39.318 NotebookApp] 302 GET / (192.168.1.2) 2.15ms
+[I 19:29:40.352 NotebookApp] 302 GET / (192.168.1.2) 1.78ms
+[I 19:29:50.724 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:abca2118ec3a4fc88f93269e8b7e6cbb
+[I 19:29:51.145 NotebookApp] Kernel restarted: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6
+[I 19:29:52.493 NotebookApp] Restoring connection for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:abca2118ec3a4fc88f93269e8b7e6cbb
+[I 19:29:52.493 NotebookApp] Replaying 6 buffered messages
+[I 19:31:43.225 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 19:32:24.355 NotebookApp] 302 GET / (192.168.1.2) 1.97ms
+mmal: Aborting program
+
+[I 19:33:33.332 NotebookApp] Kernel interrupted: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6
+[I 19:33:43.190 NotebookApp] Saving file at /生成训练数据.ipynb
+mmal: Aborting program
+
+[I 19:33:57.519 NotebookApp] Kernel interrupted: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6
+[I 19:35:43.202 NotebookApp] Saving file at /生成训练数据.ipynb
+mmal: Aborting program
+
+[I 19:35:44.968 NotebookApp] Kernel interrupted: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6
+[I 21:53:29.470 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 21:55:00.505 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 23:49:07.741 NotebookApp] WebSocket ping timeout after 103197 ms.
+mmal: Aborting program
+
+[I 12:36:04.593 NotebookApp] Kernel interrupted: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6
+[I 12:36:43.906 NotebookApp] Starting buffering for 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6:f72587b591bb4af0aa6c6501a7914d22
+mmal: Aborting program
+
+[I 12:37:24.547 NotebookApp] Kernel interrupted: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6
+[I 12:38:44.232 NotebookApp] Saving file at /生成训练数据.ipynb
+mmal: Aborting program
+
+[I 12:39:23.710 NotebookApp] Kernel interrupted: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6
+[I 12:40:44.222 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 12:46:49.683 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 17:06:44.351 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 17:08:44.351 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 19:15:58.565 NotebookApp] Kernel shutdown: dfdf0acb-5803-467e-81f4-07c539116dae
+[I 19:15:58.974 NotebookApp] Kernel shutdown: 5e8c3a4e-1f32-4b14-959b-23d3f800d25d
+[I 19:15:59.884 NotebookApp] Kernel shutdown: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6
+[W 09:38:40.578 NotebookApp] 404 POST /api/kernels/2c0bb4fc-5ef0-433f-92c1-503f4d9deed6/interrupt (192.168.1.2): Kernel does not exist: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6
+[W 09:38:40.579 NotebookApp] Kernel does not exist: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6
+[W 09:38:40.580 NotebookApp] 404 POST /api/kernels/2c0bb4fc-5ef0-433f-92c1-503f4d9deed6/interrupt (192.168.1.2) 4.86ms referer=http://192.168.1.3:8888/notebooks/%E7%94%9F%E6%88%90%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE.ipynb
+[I 09:38:44.707 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 09:38:50.623 NotebookApp] 404 POST /api/kernels/2c0bb4fc-5ef0-433f-92c1-503f4d9deed6/interrupt (192.168.1.2): Kernel does not exist: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6
+[W 09:38:50.624 NotebookApp] Kernel does not exist: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6
+[W 09:38:50.625 NotebookApp] 404 POST /api/kernels/2c0bb4fc-5ef0-433f-92c1-503f4d9deed6/interrupt (192.168.1.2) 4.36ms referer=http://192.168.1.3:8888/notebooks/%E7%94%9F%E6%88%90%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE.ipynb
+[E 09:38:58.630 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/home/pi/git/venv3/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 83, in post
+        yield maybe_future(km.restart_kernel(kernel_id))
+      File "/home/pi/git/venv3/lib/python3.7/site-packages/tornado/gen.py", line 735, in run
+        value = future.result()
+      File "/home/pi/git/venv3/lib/python3.7/site-packages/tornado/gen.py", line 209, in wrapper
+        yielded = next(result)
+      File "/home/pi/git/venv3/lib/python3.7/site-packages/notebook/services/kernels/kernelmanager.py", line 307, in restart_kernel
+        self._check_kernel_id(kernel_id)
+      File "/home/pi/git/venv3/lib/python3.7/site-packages/notebook/services/kernels/kernelmanager.py", line 387, in _check_kernel_id
+        raise web.HTTPError(404, u'Kernel does not exist: %s' % kernel_id)
+    tornado.web.HTTPError: HTTP 404: Not Found (Kernel does not exist: 2c0bb4fc-5ef0-433f-92c1-503f4d9deed6)
+[E 09:38:58.636 NotebookApp] {
+      "Host": "192.168.1.3:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "0",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|efdba629|b51d0be8302948f4d34f0dce76e7132d|1591023259",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36",
+      "Origin": "http://192.168.1.3:8888",
+      "Referer": "http://192.168.1.3:8888/notebooks/%E7%94%9F%E6%88%90%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE.ipynb",
+      "Accept-Encoding": "gzip, deflate",
+      "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7,zh-TW;q=0.6",
+      "Cookie": "_xsrf=2|efdba629|b51d0be8302948f4d34f0dce76e7132d|1591023259"
+    }
+[E 09:38:58.636 NotebookApp] 500 POST /api/kernels/2c0bb4fc-5ef0-433f-92c1-503f4d9deed6/restart (192.168.1.2) 8.47ms referer=http://192.168.1.3:8888/notebooks/%E7%94%9F%E6%88%90%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE.ipynb
+[W 09:38:58.646 NotebookApp] 404 DELETE /api/sessions/5834e8c6-e677-4330-b297-782b0814fdd9 (192.168.1.2): Session not found: session_id='5834e8c6-e677-4330-b297-782b0814fdd9'
+[W 09:38:58.647 NotebookApp] Session not found: session_id='5834e8c6-e677-4330-b297-782b0814fdd9'
+[W 09:38:58.649 NotebookApp] 404 DELETE /api/sessions/5834e8c6-e677-4330-b297-782b0814fdd9 (192.168.1.2) 4.85ms referer=http://192.168.1.3:8888/notebooks/%E7%94%9F%E6%88%90%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE.ipynb
+[I 09:38:58.714 NotebookApp] Kernel started: 5556d849-1db9-4a5e-9e1f-f071a681b155
+mmal: Aborting program
+
+[I 09:39:09.826 NotebookApp] Kernel interrupted: 5556d849-1db9-4a5e-9e1f-f071a681b155
+mmal: Aborting program
+
+[I 09:39:18.471 NotebookApp] Kernel interrupted: 5556d849-1db9-4a5e-9e1f-f071a681b155
+[I 09:41:01.389 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 09:42:49.445 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 16:56:21.147 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 17:40:48.243 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 18:52:38.780 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 18:54:09.676 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 20:34:53.911 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:37daf7a5933c4a878f9ae45f9b95c141
+[I 20:34:55.411 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:37daf7a5933c4a878f9ae45f9b95c141
+[W 20:36:25.414 NotebookApp] WebSocket ping timeout after 90003 ms.
+[I 20:36:30.418 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:37daf7a5933c4a878f9ae45f9b95c141
+[I 08:46:55.945 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:37daf7a5933c4a878f9ae45f9b95c141
+[I 08:52:42.183 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 08:54:36.732 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 08:56:36.828 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 14:30:06.543 NotebookApp] 302 GET / (192.168.1.2) 2.02ms
+[I 14:30:11.210 NotebookApp] Kernel started: 3dc1844d-e1ce-4415-93ac-4cd4960ee2b2
+[I 14:30:14.364 NotebookApp] Kernel started: 21b15cd2-9710-428a-a8b2-4453fef6fce7
+[I 14:32:14.402 NotebookApp] Saving file at /图像增强.ipynb
+[I 14:33:34.290 NotebookApp] Starting buffering for 3dc1844d-e1ce-4415-93ac-4cd4960ee2b2:3dc6154970d64a028c7f23212726acf4
+[I 14:34:09.578 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 14:34:14.475 NotebookApp] Saving file at /图像增强.ipynb
+[I 14:36:09.594 NotebookApp] Saving file at /生成训练数据.ipynb
+mmal: Aborting program
+
+[I 14:37:21.124 NotebookApp] Kernel interrupted: 5556d849-1db9-4a5e-9e1f-f071a681b155
+[I 14:38:09.212 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 14:46:48.470 NotebookApp] Replacing stale connection: 5556d849-1db9-4a5e-9e1f-f071a681b155:5f588d20914a4f3f8f677e049e4cd4c2
+[W 14:46:53.514 NotebookApp] Replacing stale connection: 21b15cd2-9710-428a-a8b2-4453fef6fce7:86b71e650d46417188002b10259fdbc3
+[I 14:46:58.518 NotebookApp] Starting buffering for 21b15cd2-9710-428a-a8b2-4453fef6fce7:86b71e650d46417188002b10259fdbc3
+[I 14:46:58.523 NotebookApp] Restoring connection for 21b15cd2-9710-428a-a8b2-4453fef6fce7:86b71e650d46417188002b10259fdbc3
+[I 16:37:22.271 NotebookApp] Starting buffering for 21b15cd2-9710-428a-a8b2-4453fef6fce7:86b71e650d46417188002b10259fdbc3
+[W 17:28:37.052 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 23:47:38.734 NotebookApp] Restoring connection for 21b15cd2-9710-428a-a8b2-4453fef6fce7:86b71e650d46417188002b10259fdbc3
+[I 00:02:58.523 NotebookApp] Starting buffering for 21b15cd2-9710-428a-a8b2-4453fef6fce7:86b71e650d46417188002b10259fdbc3
+[I 00:30:13.980 NotebookApp] Starting buffering for 21b15cd2-9710-428a-a8b2-4453fef6fce7:9eda557f68f34e3f930170f56f71bc57
+[I 11:15:50.342 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 11:47:45.016 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 12:07:18.065 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:37daf7a5933c4a878f9ae45f9b95c141
+[I 12:07:19.287 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:37daf7a5933c4a878f9ae45f9b95c141
+[W 12:08:49.288 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 12:08:54.291 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:37daf7a5933c4a878f9ae45f9b95c141
+[I 12:31:57.413 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 12:35:25.140 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:17491801b1d7456e86b7bd7e803ce227
+[W 14:12:31.917 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 14:12:36.921 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:37daf7a5933c4a878f9ae45f9b95c141
+[W 16:26:14.158 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 16:29:47.547 NotebookApp] Starting buffering for 21b15cd2-9710-428a-a8b2-4453fef6fce7:07335a44c11f43f1a9f86436ebfddbb8
+[I 16:29:47.548 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:cbd09774764a492a8f595ef196b14188
+[I 22:03:14.249 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:37daf7a5933c4a878f9ae45f9b95c141
+[I 22:03:16.257 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:37daf7a5933c4a878f9ae45f9b95c141
+[W 22:04:46.260 NotebookApp] WebSocket ping timeout after 90003 ms.
+[I 22:04:51.264 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:37daf7a5933c4a878f9ae45f9b95c141
+[I 22:28:04.065 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:37daf7a5933c4a878f9ae45f9b95c141
+[I 22:52:23.354 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:37daf7a5933c4a878f9ae45f9b95c141
+[I 22:52:25.872 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:37daf7a5933c4a878f9ae45f9b95c141
+[W 22:53:55.873 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 22:54:00.877 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:37daf7a5933c4a878f9ae45f9b95c141
+[I 08:47:28.120 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:17491801b1d7456e86b7bd7e803ce227
+[I 08:47:28.556 NotebookApp] Kernel restarted: 5556d849-1db9-4a5e-9e1f-f071a681b155
+[I 08:47:29.748 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:17491801b1d7456e86b7bd7e803ce227
+[I 08:47:29.748 NotebookApp] Replaying 3 buffered messages
+[I 08:49:51.454 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 08:51:59.749 NotebookApp] WebSocket ping timeout after 119888 ms.
+[I 08:52:04.751 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:17491801b1d7456e86b7bd7e803ce227
+[I 09:41:51.479 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:17491801b1d7456e86b7bd7e803ce227
+[W 09:43:21.481 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 09:43:26.483 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:17491801b1d7456e86b7bd7e803ce227
+[I 09:46:15.148 NotebookApp] 302 GET / (192.168.1.2) 2.38ms
+[I 09:48:18.577 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 09:50:18.542 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 09:57:55.601 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 10:02:18.533 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 10:28:11.111 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 10:30:48.545 NotebookApp] WebSocket ping timeout after 119983 ms.
+[I 10:30:53.548 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:289637e67e7c466b8e920ea98a4aae1f
+[I 10:31:39.443 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:289637e67e7c466b8e920ea98a4aae1f
+[W 10:34:54.605 NotebookApp] Replacing stale connection: 5556d849-1db9-4a5e-9e1f-f071a681b155:289637e67e7c466b8e920ea98a4aae1f
+[I 10:34:59.608 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:289637e67e7c466b8e920ea98a4aae1f
+[I 10:34:59.613 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:289637e67e7c466b8e920ea98a4aae1f
+[W 10:38:11.448 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 10:42:27.660 NotebookApp] Replacing stale connection: 5556d849-1db9-4a5e-9e1f-f071a681b155:289637e67e7c466b8e920ea98a4aae1f
+[I 10:42:32.663 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:289637e67e7c466b8e920ea98a4aae1f
+[I 10:42:32.671 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:289637e67e7c466b8e920ea98a4aae1f
+[W 11:07:24.481 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 13:15:47.451 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:289637e67e7c466b8e920ea98a4aae1f
+[I 14:32:12.994 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:289637e67e7c466b8e920ea98a4aae1f
+[I 18:22:05.178 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:289637e67e7c466b8e920ea98a4aae1f
+[W 06:08:22.437 NotebookApp] WebSocket ping timeout after 90003 ms.
+[I 06:08:27.440 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:37daf7a5933c4a878f9ae45f9b95c141
+[I 13:30:56.869 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:17491801b1d7456e86b7bd7e803ce227
+[W 13:32:27.248 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 13:32:32.251 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[I 13:33:12.035 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[I 13:33:12.036 NotebookApp] Replaying 7 buffered messages
+[W 13:34:42.036 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 13:34:47.039 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[I 14:25:31.171 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:289637e67e7c466b8e920ea98a4aae1f
+[I 14:33:00.479 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:289637e67e7c466b8e920ea98a4aae1f
+[I 14:49:34.778 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:289637e67e7c466b8e920ea98a4aae1f
+[W 20:06:31.364 NotebookApp] WebSocket ping timeout after 90003 ms.
+[I 20:06:36.368 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[I 22:13:33.076 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 22:13:34.283 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[W 22:16:34.286 NotebookApp] WebSocket ping timeout after 119995 ms.
+[I 22:16:39.290 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[I 23:50:08.241 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[I 23:52:07.262 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 23:53:38.065 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[I 00:15:24.031 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:289637e67e7c466b8e920ea98a4aae1f
+[I 00:17:42.245 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:289637e67e7c466b8e920ea98a4aae1f
+[I 00:20:02.682 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:289637e67e7c466b8e920ea98a4aae1f
+[I 06:42:24.669 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 06:43:55.633 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 06:44:00.637 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[I 06:58:51.259 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[W 07:00:21.261 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 07:00:26.263 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[I 08:42:39.542 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:289637e67e7c466b8e920ea98a4aae1f
+[I 10:14:14.343 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 10:16:14.313 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 10:17:48.902 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[I 21:05:24.485 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[W 21:06:54.487 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 21:06:59.490 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[I 23:01:26.964 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[I 23:03:25.932 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 23:05:25.911 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 23:06:58.408 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[I 08:32:30.338 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[W 08:34:00.340 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 08:34:05.342 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[I 13:01:03.913 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[W 13:03:33.915 NotebookApp] WebSocket ping timeout after 119993 ms.
+[I 13:03:38.918 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[I 17:27:26.012 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 17:27:27.008 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[W 17:28:57.009 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 17:29:02.012 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[I 18:27:41.626 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 18:27:42.642 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[I 18:27:42.643 NotebookApp] Replaying 2 buffered messages
+[W 18:29:12.644 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 18:29:17.648 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[I 22:24:55.082 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 22:24:56.116 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[W 22:26:26.117 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 22:26:31.121 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[I 10:54:17.430 NotebookApp] Restoring connection for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+[I 10:54:40.420 NotebookApp] Starting buffering for 5556d849-1db9-4a5e-9e1f-f071a681b155:39841d9c2783441c9d1bef0096f8965c
+mmal: Aborting program
+
+[I 10:55:40.275 NotebookApp] Kernel interrupted: 5556d849-1db9-4a5e-9e1f-f071a681b155
+[I 10:56:40.788 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 11:30:28.206 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 11:30:28.209 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 11:30:28.225 NotebookApp] Serving notebooks from local directory: /home/pi/git/bumper/src
+[I 11:30:28.225 NotebookApp] The Jupyter Notebook is running at:
+[I 11:30:28.225 NotebookApp] http://raspberrypi:8888/
+[I 11:30:28.225 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 11:30:28.236 NotebookApp] No web browser found: could not locate runnable browser.
+[I 11:30:54.887 NotebookApp] Kernel started: d1e44670-a158-4539-b1c0-878e5e9eb64b
+[I 11:32:54.887 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 11:34:54.860 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 11:36:54.876 NotebookApp] Saving file at /生成训练数据.ipynb
+mmal: Aborting program
+
+[I 11:39:23.477 NotebookApp] Kernel interrupted: d1e44670-a158-4539-b1c0-878e5e9eb64b
+[I 11:40:14.356 NotebookApp] Starting buffering for d1e44670-a158-4539-b1c0-878e5e9eb64b:1fa0607141644d798db9c8ca9c3e7673
+[I 17:06:28.449 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 17:06:29.467 NotebookApp] Restoring connection for d1e44670-a158-4539-b1c0-878e5e9eb64b:1fa0607141644d798db9c8ca9c3e7673
+[W 17:07:59.469 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 17:08:04.473 NotebookApp] Starting buffering for d1e44670-a158-4539-b1c0-878e5e9eb64b:1fa0607141644d798db9c8ca9c3e7673
+[I 08:47:23.572 NotebookApp] Restoring connection for d1e44670-a158-4539-b1c0-878e5e9eb64b:1fa0607141644d798db9c8ca9c3e7673
+[W 08:48:53.574 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 08:48:58.578 NotebookApp] Starting buffering for d1e44670-a158-4539-b1c0-878e5e9eb64b:1fa0607141644d798db9c8ca9c3e7673
+[I 08:56:20.352 NotebookApp] Restoring connection for d1e44670-a158-4539-b1c0-878e5e9eb64b:1fa0607141644d798db9c8ca9c3e7673
+[I 08:56:48.744 NotebookApp] Starting buffering for d1e44670-a158-4539-b1c0-878e5e9eb64b:1fa0607141644d798db9c8ca9c3e7673
+[I 09:15:43.274 NotebookApp] Restoring connection for d1e44670-a158-4539-b1c0-878e5e9eb64b:1fa0607141644d798db9c8ca9c3e7673
+[I 09:17:42.251 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 09:19:42.220 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 09:20:51.304 NotebookApp] Starting buffering for d1e44670-a158-4539-b1c0-878e5e9eb64b:1fa0607141644d798db9c8ca9c3e7673
+[I 15:45:17.147 NotebookApp] Restoring connection for d1e44670-a158-4539-b1c0-878e5e9eb64b:1fa0607141644d798db9c8ca9c3e7673
+[I 15:47:16.133 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 15:49:16.101 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 15:50:24.378 NotebookApp] Starting buffering for d1e44670-a158-4539-b1c0-878e5e9eb64b:1fa0607141644d798db9c8ca9c3e7673
+[I 21:39:56.165 NotebookApp] Restoring connection for d1e44670-a158-4539-b1c0-878e5e9eb64b:1fa0607141644d798db9c8ca9c3e7673
+[W 21:41:26.167 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 21:41:31.171 NotebookApp] Starting buffering for d1e44670-a158-4539-b1c0-878e5e9eb64b:1fa0607141644d798db9c8ca9c3e7673
+[I 22:49:03.690 NotebookApp] Restoring connection for d1e44670-a158-4539-b1c0-878e5e9eb64b:1fa0607141644d798db9c8ca9c3e7673
+[W 22:50:33.693 NotebookApp] WebSocket ping timeout after 90003 ms.
+[I 22:50:38.697 NotebookApp] Starting buffering for d1e44670-a158-4539-b1c0-878e5e9eb64b:1fa0607141644d798db9c8ca9c3e7673
+[I 23:28:22.295 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 23:30:22.296 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 23:32:22.278 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 23:34:22.293 NotebookApp] WebSocket ping timeout after 119952 ms.
+[I 23:34:27.298 NotebookApp] Starting buffering for d1e44670-a158-4539-b1c0-878e5e9eb64b:6766b3d7806849e5906edc253b9db68b
+[W 08:24:50.783 NotebookApp] WebSocket ping timeout after 90003 ms.
+[I 08:24:55.785 NotebookApp] Starting buffering for d1e44670-a158-4539-b1c0-878e5e9eb64b:63e5d6145b6846b68dad19ff73722e9c
+[I 18:46:36.208 NotebookApp] Restoring connection for d1e44670-a158-4539-b1c0-878e5e9eb64b:63e5d6145b6846b68dad19ff73722e9c
+[I 18:48:28.629 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 18:50:28.610 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 18:51:45.289 NotebookApp] Starting buffering for d1e44670-a158-4539-b1c0-878e5e9eb64b:63e5d6145b6846b68dad19ff73722e9c
+[I 18:58:36.900 NotebookApp] Restoring connection for d1e44670-a158-4539-b1c0-878e5e9eb64b:63e5d6145b6846b68dad19ff73722e9c
+[I 19:00:34.860 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 19:02:34.825 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 19:03:44.813 NotebookApp] Starting buffering for d1e44670-a158-4539-b1c0-878e5e9eb64b:63e5d6145b6846b68dad19ff73722e9c
+[I 09:12:41.820 NotebookApp] Restoring connection for d1e44670-a158-4539-b1c0-878e5e9eb64b:63e5d6145b6846b68dad19ff73722e9c
+[W 09:14:11.822 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 09:14:16.825 NotebookApp] Starting buffering for d1e44670-a158-4539-b1c0-878e5e9eb64b:63e5d6145b6846b68dad19ff73722e9c
+[W 10:12:25.095 NotebookApp] 403 POST /api/sessions (192.168.1.2): '_xsrf' argument missing from POST
+[W 10:12:25.096 NotebookApp] '_xsrf' argument missing from POST
+[W 10:12:25.096 NotebookApp] 403 POST /api/sessions (192.168.1.2) 2.13ms referer=http://192.168.1.3:8888/notebooks/%E7%94%9F%E6%88%90%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE.ipynb
+[W 10:14:25.131 NotebookApp] 403 PUT /api/contents/%E7%94%9F%E6%88%90%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE.ipynb (192.168.1.2): '_xsrf' argument missing from POST
+[W 10:14:25.131 NotebookApp] '_xsrf' argument missing from POST
+[W 10:14:25.133 NotebookApp] 403 PUT /api/contents/%E7%94%9F%E6%88%90%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE.ipynb (192.168.1.2) 3.77ms referer=http://192.168.1.3:8888/notebooks/%E7%94%9F%E6%88%90%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE.ipynb
+[W 10:14:40.933 NotebookApp] 403 PUT /api/contents/%E7%94%9F%E6%88%90%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE.ipynb (192.168.1.2): '_xsrf' argument missing from POST
+[W 10:14:40.933 NotebookApp] '_xsrf' argument missing from POST
+[W 10:14:40.934 NotebookApp] 403 PUT /api/contents/%E7%94%9F%E6%88%90%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE.ipynb (192.168.1.2) 2.53ms referer=http://192.168.1.3:8888/notebooks/%E7%94%9F%E6%88%90%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE.ipynb
+[I 10:16:41.289 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 10:18:41.296 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 10:28:41.280 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 10:30:41.274 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 10:33:46.521 NotebookApp] Replacing stale connection: d1e44670-a158-4539-b1c0-878e5e9eb64b:aeea1d1da170495f90015cf90e1d515e
+[I 10:33:51.526 NotebookApp] Starting buffering for d1e44670-a158-4539-b1c0-878e5e9eb64b:aeea1d1da170495f90015cf90e1d515e
+[I 10:33:51.531 NotebookApp] Restoring connection for d1e44670-a158-4539-b1c0-878e5e9eb64b:aeea1d1da170495f90015cf90e1d515e
+[W 11:03:22.701 NotebookApp] WebSocket ping timeout after 90002 ms.
+[W 11:10:41.912 NotebookApp] WebSocket ping timeout after 103048 ms.
+[W 11:16:45.736 NotebookApp] WebSocket ping timeout after 90003 ms.
+[W 11:39:36.832 NotebookApp] Replacing stale connection: d1e44670-a158-4539-b1c0-878e5e9eb64b:aeea1d1da170495f90015cf90e1d515e
+[I 11:39:41.838 NotebookApp] Starting buffering for d1e44670-a158-4539-b1c0-878e5e9eb64b:aeea1d1da170495f90015cf90e1d515e
+[I 11:39:41.843 NotebookApp] Restoring connection for d1e44670-a158-4539-b1c0-878e5e9eb64b:aeea1d1da170495f90015cf90e1d515e
+[W 12:11:02.804 NotebookApp] Replacing stale connection: d1e44670-a158-4539-b1c0-878e5e9eb64b:aeea1d1da170495f90015cf90e1d515e
+[I 12:11:07.807 NotebookApp] Starting buffering for d1e44670-a158-4539-b1c0-878e5e9eb64b:aeea1d1da170495f90015cf90e1d515e
+[I 12:11:07.812 NotebookApp] Restoring connection for d1e44670-a158-4539-b1c0-878e5e9eb64b:aeea1d1da170495f90015cf90e1d515e
+[W 14:35:06.647 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 14:35:06.650 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 14:35:06.666 NotebookApp] Serving notebooks from local directory: /home/pi/git/bumper/src
+[I 14:35:06.666 NotebookApp] The Jupyter Notebook is running at:
+[I 14:35:06.666 NotebookApp] http://raspberrypi:8888/
+[I 14:35:06.666 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 14:35:06.678 NotebookApp] No web browser found: could not locate runnable browser.
+[I 14:35:09.286 NotebookApp] Kernel started: e1923ddc-25d0-418f-bca8-0c00315a586b
+[I 14:36:15.289 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 14:36:32.941 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+mmal: Aborting program
+
+[I 14:36:55.202 NotebookApp] Kernel interrupted: e1923ddc-25d0-418f-bca8-0c00315a586b
+[I 14:36:59.834 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 14:37:04.888 NotebookApp] Kernel restarted: e1923ddc-25d0-418f-bca8-0c00315a586b
+[I 14:37:06.131 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 14:37:06.131 NotebookApp] Replaying 2 buffered messages
+[I 14:37:21.282 NotebookApp] Saving file at /生成训练数据.ipynb
+mmal: Aborting program
+
+[I 14:37:25.455 NotebookApp] Kernel interrupted: e1923ddc-25d0-418f-bca8-0c00315a586b
+mmal: [I 14:38:25.004 NotebookApp] Kernel interrupted: e1923ddc-25d0-418f-bca8-0c00315a586b
+Aborting program
+
+mmal: Aborting program
+[I 14:38:30.145 NotebookApp] Kernel interrupted: e1923ddc-25d0-418f-bca8-0c00315a586b
+
+mmal: Aborting program
+[I 14:38:33.834 NotebookApp] Kernel interrupted: e1923ddc-25d0-418f-bca8-0c00315a586b
+
+[I 14:39:21.259 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 14:43:21.239 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 14:47:05.369 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 14:54:12.683 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[W 14:54:15.106 NotebookApp] 404 GET /apple-touch-icon-152x152-precomposed.png (192.168.1.2) 26.29ms referer=None
+[W 14:54:15.116 NotebookApp] 404 GET /apple-touch-icon-152x152.png (192.168.1.2) 2.66ms referer=None
+[W 14:54:15.126 NotebookApp] 404 GET /apple-touch-icon-precomposed.png (192.168.1.2) 2.64ms referer=None
+[W 14:54:15.135 NotebookApp] 404 GET /apple-touch-icon.png (192.168.1.2) 2.62ms referer=None
+[I 14:54:46.100 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 16:52:54.320 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 16:54:09.690 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 19:15:23.300 NotebookApp] 302 GET / (192.168.1.2) 2.13ms
+[I 19:17:26.766 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 20:34:24.494 NotebookApp] Replacing stale connection: e1923ddc-25d0-418f-bca8-0c00315a586b:9f28ee6dc3754f3d8a5efeb7870e6f83
+[I 20:34:29.496 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:9f28ee6dc3754f3d8a5efeb7870e6f83
+[I 20:34:29.501 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:9f28ee6dc3754f3d8a5efeb7870e6f83
+[I 20:51:27.497 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 20:53:26.704 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 20:56:34.443 NotebookApp] Replacing stale connection: e1923ddc-25d0-418f-bca8-0c00315a586b:9f28ee6dc3754f3d8a5efeb7870e6f83
+[I 20:56:39.447 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:9f28ee6dc3754f3d8a5efeb7870e6f83
+[I 20:56:39.452 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:9f28ee6dc3754f3d8a5efeb7870e6f83
+[W 22:44:51.414 NotebookApp] Replacing stale connection: e1923ddc-25d0-418f-bca8-0c00315a586b:9f28ee6dc3754f3d8a5efeb7870e6f83
+[I 22:44:56.418 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:9f28ee6dc3754f3d8a5efeb7870e6f83
+[I 22:44:56.423 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:9f28ee6dc3754f3d8a5efeb7870e6f83
+[I 22:46:08.869 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:9f28ee6dc3754f3d8a5efeb7870e6f83
+[I 00:18:35.082 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:9f28ee6dc3754f3d8a5efeb7870e6f83
+[I 00:20:57.937 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:9f28ee6dc3754f3d8a5efeb7870e6f83
+[I 22:34:46.940 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:9f28ee6dc3754f3d8a5efeb7870e6f83
+[I 22:35:09.414 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:9f28ee6dc3754f3d8a5efeb7870e6f83
+[I 23:20:22.439 NotebookApp] 302 GET / (192.168.1.2) 1.81ms
+[I 12:02:37.776 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 12:10:07.065 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 19:57:58.239 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 19:57:59.235 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 20:06:00.300 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 22:24:53.493 NotebookApp] 302 GET / (192.168.1.2) 1.96ms
+[I 22:26:53.677 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 22:28:24.697 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 22:43:10.666 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:adc9870cf4c74895ad671cc34376b815
+[I 20:44:29.228 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 20:45:52.153 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 08:09:58.902 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[W 08:11:28.904 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 08:11:33.908 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 10:27:28.662 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 10:37:27.537 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 10:48:58.610 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 19:52:56.228 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 20:00:03.412 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 21:14:19.295 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 21:15:28.824 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 21:20:19.785 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 22:19:21.576 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[W 22:20:51.579 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 22:20:56.582 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 17:42:42.013 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 17:49:29.398 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 20:51:41.324 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 20:51:42.319 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[W 20:53:12.321 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 20:53:17.324 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 12:49:55.664 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 12:50:00.201 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:1fb5a561361946b5a4b1b2b063c599b4
+[I 12:52:00.590 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 12:54:30.606 NotebookApp] WebSocket ping timeout after 119994 ms.
+[I 12:54:35.609 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:ed7c984fd78945008171391d4d91b2ca
+[I 18:07:48.614 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 18:07:49.595 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:ed7c984fd78945008171391d4d91b2ca
+[W 18:09:19.598 NotebookApp] WebSocket ping timeout after 90003 ms.
+[I 18:09:24.602 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:ed7c984fd78945008171391d4d91b2ca
+[I 18:25:32.536 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:ed7c984fd78945008171391d4d91b2ca
+[W 18:27:02.537 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 18:27:07.541 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:ed7c984fd78945008171391d4d91b2ca
+[I 21:35:16.946 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:ed7c984fd78945008171391d4d91b2ca
+[I 21:37:12.074 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 21:40:16.946 NotebookApp] WebSocket ping timeout after 119886 ms.
+[I 21:40:21.951 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:ed7c984fd78945008171391d4d91b2ca
+[I 14:18:31.589 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 14:18:32.694 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:ed7c984fd78945008171391d4d91b2ca
+[W 14:22:02.695 NotebookApp] WebSocket ping timeout after 119899 ms.
+[I 14:22:07.702 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:ed7c984fd78945008171391d4d91b2ca
+[I 18:52:00.929 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:ed7c984fd78945008171391d4d91b2ca
+[I 18:53:59.952 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 18:56:00.932 NotebookApp] WebSocket ping timeout after 119937 ms.
+[I 18:56:05.935 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:ed7c984fd78945008171391d4d91b2ca
+[I 22:20:49.018 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 22:20:50.073 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:ed7c984fd78945008171391d4d91b2ca
+[I 22:22:48.895 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 22:25:20.074 NotebookApp] WebSocket ping timeout after 119972 ms.
+[I 22:25:25.079 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:ed7c984fd78945008171391d4d91b2ca
+[I 15:47:33.984 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 15:50:49.188 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 22:11:41.067 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[W 22:13:11.067 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 22:13:16.071 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 12:01:46.931 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 12:03:45.852 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 12:05:45.809 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 12:06:55.432 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 21:53:17.456 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 21:55:16.434 NotebookApp] Saving file at /生成训练数据.ipynb
+mmal: Aborting program
+
+[I 21:58:24.606 NotebookApp] Kernel interrupted: e1923ddc-25d0-418f-bca8-0c00315a586b
+[I 21:59:16.402 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 22:03:30.423 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 22:35:26.958 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[W 22:36:56.960 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 22:37:01.963 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 20:40:27.987 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 20:42:26.933 NotebookApp] Saving file at /生成训练数据.ipynb
+mmal: Aborting program
+
+[I 20:44:11.442 NotebookApp] Kernel interrupted: e1923ddc-25d0-418f-bca8-0c00315a586b
+[I 20:44:26.878 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 20:49:17.009 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 23:18:38.912 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[W 23:20:08.913 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 23:20:13.915 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 13:25:50.757 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 13:27:49.740 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 13:30:20.759 NotebookApp] WebSocket ping timeout after 119896 ms.
+[I 13:30:25.764 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 20:28:14.310 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 20:28:15.327 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[W 20:29:45.330 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 20:29:50.333 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 20:30:02.604 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+mmal: Aborting program
+
+[I 20:30:04.525 NotebookApp] Kernel interrupted: e1923ddc-25d0-418f-bca8-0c00315a586b
+[I 20:30:14.277 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 20:32:32.605 NotebookApp] WebSocket ping timeout after 119935 ms.
+[I 20:32:37.610 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 11:00:58.198 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 11:01:37.296 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 11:19:11.218 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 11:19:12.242 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 11:21:11.195 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 11:23:11.196 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 11:24:19.267 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 11:37:03.995 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[W 11:40:03.998 NotebookApp] WebSocket ping timeout after 119456 ms.
+[I 11:40:09.001 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 12:02:07.459 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[W 12:03:37.462 NotebookApp] WebSocket ping timeout after 90003 ms.
+[I 12:03:42.466 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 12:29:33.781 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 12:30:51.165 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 14:41:31.864 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 14:43:31.877 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 14:45:31.854 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 14:50:28.314 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 15:20:37.172 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[W 15:22:07.175 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 15:22:12.178 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 15:40:14.802 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 15:41:05.390 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 15:52:50.004 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 15:52:50.004 NotebookApp] Replaying 2 buffered messages
+[I 15:53:32.290 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 15:55:32.266 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 15:57:32.269 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 15:59:20.005 NotebookApp] WebSocket ping timeout after 119978 ms.
+[I 15:59:23.281 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 16:16:03.608 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 16:16:34.350 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 16:25:56.699 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[W 16:27:26.701 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 16:27:31.706 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 16:45:49.367 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[W 16:47:19.369 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 16:47:24.373 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 16:51:29.803 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[W 16:52:59.805 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 16:53:04.811 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 17:07:00.540 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[W 17:08:30.542 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 17:08:35.545 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:10e960d938e642a2833ae8cc38c0533d
+[I 17:56:01.482 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 17:59:10.690 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:132c6386ba194c3289da5afe07124043
+[I 18:42:49.858 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:132c6386ba194c3289da5afe07124043
+[I 18:44:48.847 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 18:48:48.822 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 18:53:25.183 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:132c6386ba194c3289da5afe07124043
+[I 20:55:21.626 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:132c6386ba194c3289da5afe07124043
+[W 20:56:51.629 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 20:56:56.632 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:132c6386ba194c3289da5afe07124043
+[I 21:27:55.787 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:132c6386ba194c3289da5afe07124043
+[I 21:29:54.770 NotebookApp] Saving file at /生成训练数据.ipynb
+[W 21:33:55.790 NotebookApp] WebSocket ping timeout after 119963 ms.
+[I 21:34:00.795 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:132c6386ba194c3289da5afe07124043
+[I 10:31:51.733 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:132c6386ba194c3289da5afe07124043
+mmal: Aborting program
+
+[I 10:32:27.603 NotebookApp] Kernel interrupted: e1923ddc-25d0-418f-bca8-0c00315a586b
+mmal: Aborting program
+
+[I 10:32:42.614 NotebookApp] Kernel interrupted: e1923ddc-25d0-418f-bca8-0c00315a586b
+[I 10:32:46.681 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:132c6386ba194c3289da5afe07124043
+mmal: Aborting program
+
+[I 10:33:03.970 NotebookApp] Kernel interrupted: e1923ddc-25d0-418f-bca8-0c00315a586b
+[I 10:33:06.506 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:f881c96edfdf44f8915bcc2b61204466
+[I 10:33:07.034 NotebookApp] Kernel restarted: e1923ddc-25d0-418f-bca8-0c00315a586b
+[I 10:33:08.311 NotebookApp] Restoring connection for e1923ddc-25d0-418f-bca8-0c00315a586b:f881c96edfdf44f8915bcc2b61204466
+[I 10:33:08.311 NotebookApp] Replaying 6 buffered messages
+mmal: Aborting program
+
+[I 10:33:36.304 NotebookApp] Kernel interrupted: e1923ddc-25d0-418f-bca8-0c00315a586b
+[W 10:36:08.312 NotebookApp] WebSocket ping timeout after 119924 ms.
+[I 10:36:13.315 NotebookApp] Starting buffering for e1923ddc-25d0-418f-bca8-0c00315a586b:f881c96edfdf44f8915bcc2b61204466
+[W 21:10:09.372 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 21:10:09.377 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 21:10:09.386 NotebookApp] Serving notebooks from local directory: /home/pi/git/bumper/src
+[I 21:10:09.386 NotebookApp] The Jupyter Notebook is running at:
+[I 21:10:09.386 NotebookApp] http://raspberrypi:8888/
+[I 21:10:09.386 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 21:10:09.396 NotebookApp] No web browser found: could not locate runnable browser.
+[W 21:10:14.831 NotebookApp] 404 GET /api/kernels/488c558d-0176-4173-9753-2bab14226716/channels?session_id=005a55b87afd4040ab680e9ed5ed0712 (192.168.1.2): Kernel does not exist: 488c558d-0176-4173-9753-2bab14226716
+[W 21:10:14.928 NotebookApp] 404 GET /api/kernels/488c558d-0176-4173-9753-2bab14226716/channels?session_id=005a55b87afd4040ab680e9ed5ed0712 (192.168.1.2) 102.20ms referer=None
+[W 21:10:18.149 NotebookApp] 404 GET /api/kernels/bff238dc-136e-4648-a8fc-8db04ed9f807/channels?session_id=e6fc073752fb40e6a2a129065a244c4b (192.168.1.2): Kernel does not exist: bff238dc-136e-4648-a8fc-8db04ed9f807
+[W 21:10:18.157 NotebookApp] 404 GET /api/kernels/bff238dc-136e-4648-a8fc-8db04ed9f807/channels?session_id=e6fc073752fb40e6a2a129065a244c4b (192.168.1.2) 15.27ms referer=None
+[W 21:10:21.102 NotebookApp] 404 GET /notebooks/bumper/src/%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA.ipynb (192.168.1.2): No such file or directory: bumper/src/图像增强.ipynb
+[W 21:10:21.110 NotebookApp] 404 GET /notebooks/bumper/src/%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA.ipynb (192.168.1.2) 14.47ms referer=http://192.168.1.3:8888/tree/bumper/src
+[W 21:10:21.112 NotebookApp] 404 GET /api/contents/bumper/src/%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA.ipynb?content=0&_=1600606821683 (192.168.1.2): No such file or directory: bumper/src/图像增强.ipynb
+[W 21:10:21.113 NotebookApp] No such file or directory: bumper/src/图像增强.ipynb
+[W 21:10:21.116 NotebookApp] 404 GET /api/contents/bumper/src/%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA.ipynb?content=0&_=1600606821683 (192.168.1.2) 16.06ms referer=http://192.168.1.3:8888/notebooks/bumper/src/%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA.ipynb
+[W 21:10:22.246 NotebookApp] 404 GET /notebooks/bumper/src/%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA.ipynb (192.168.1.2): No such file or directory: bumper/src/图像增强.ipynb
+[W 21:10:22.253 NotebookApp] 404 GET /notebooks/bumper/src/%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA.ipynb (192.168.1.2) 9.35ms referer=http://192.168.1.3:8888/tree/bumper/src
+[I 21:10:28.842 NotebookApp] 302 GET / (192.168.1.2) 1.26ms
+[I 21:10:32.003 NotebookApp] Kernel started: e0c716e1-fa9a-4c51-91f2-83e6fe213f64
+[W 21:10:35.153 NotebookApp] Replacing stale connection: bff238dc-136e-4648-a8fc-8db04ed9f807:e6fc073752fb40e6a2a129065a244c4b
+[I 21:12:33.917 NotebookApp] Saving file at /图像增强.ipynb
+[W 21:15:10.325 NotebookApp] Replacing stale connection: bff238dc-136e-4648-a8fc-8db04ed9f807:e6fc073752fb40e6a2a129065a244c4b
+[W 21:15:31.247 NotebookApp] 404 GET /api/contents/bumper/src?type=directory&_=1600606754931 (192.168.1.2): No such file or directory: bumper/src
+[W 21:15:31.248 NotebookApp] No such file or directory: bumper/src
+[W 21:15:31.249 NotebookApp] 404 GET /api/contents/bumper/src?type=directory&_=1600606754931 (192.168.1.2) 4.38ms referer=http://192.168.1.3:8888/tree/bumper/src
+[I 21:16:32.098 NotebookApp] Saving file at /图像增强.ipynb
+[I 21:18:32.142 NotebookApp] Saving file at /图像增强.ipynb
+[W 21:20:15.138 NotebookApp] Replacing stale connection: bff238dc-136e-4648-a8fc-8db04ed9f807:e6fc073752fb40e6a2a129065a244c4b
+[I 21:20:32.051 NotebookApp] Saving file at /图像增强.ipynb
+[I 21:22:32.019 NotebookApp] Saving file at /图像增强.ipynb
+[I 21:24:32.012 NotebookApp] Saving file at /图像增强.ipynb
+[I 21:26:32.032 NotebookApp] Saving file at /图像增强.ipynb
+[I 21:28:32.031 NotebookApp] Saving file at /图像增强.ipynb
+[I 21:35:35.756 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 21:35:36.167 NotebookApp] Kernel started: 21cda66b-2dc6-46ae-9cf3-c1998fd7e87b
+[I 21:37:36.178 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 21:41:37.117 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 21:47:36.178 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 21:57:36.174 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 21:59:37.143 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 22:00:32.083 NotebookApp] Saving file at /图像增强.ipynb
+[W 22:02:21.221 NotebookApp] 404 GET /tree/bumper/src (192.168.1.2) 10.21ms referer=None
+[I 22:11:37.137 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 22:13:36.177 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 22:15:36.179 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 22:17:44.525 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 08:43:36.491 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 08:45:36.512 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 08:51:36.508 NotebookApp] Saving file at /生成训练数据.ipynb
+[I 09:03:23.108 NotebookApp] Starting buffering for 21cda66b-2dc6-46ae-9cf3-c1998fd7e87b:3f5f973a09bd43a68427929ad6c68de2
+[I 09:03:23.110 NotebookApp] Starting buffering for e0c716e1-fa9a-4c51-91f2-83e6fe213f64:35680ea7cb664c3b8ba100b9ba5ea8ca
+[I 09:03:24.160 NotebookApp] Restoring connection for 21cda66b-2dc6-46ae-9cf3-c1998fd7e87b:3f5f973a09bd43a68427929ad6c68de2
+[I 09:03:24.468 NotebookApp] Restoring connection for e0c716e1-fa9a-4c51-91f2-83e6fe213f64:35680ea7cb664c3b8ba100b9ba5ea8ca
+[W 09:04:54.162 NotebookApp] WebSocket ping timeout after 90002 ms.
+[W 09:04:54.468 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 09:04:59.164 NotebookApp] Starting buffering for 21cda66b-2dc6-46ae-9cf3-c1998fd7e87b:3f5f973a09bd43a68427929ad6c68de2
+[I 09:04:59.471 NotebookApp] Starting buffering for e0c716e1-fa9a-4c51-91f2-83e6fe213f64:35680ea7cb664c3b8ba100b9ba5ea8ca
+[W 14:46:51.899 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 14:46:51.903 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 14:46:51.930 NotebookApp] Serving notebooks from local directory: /home/pi/git/bumper/src
+[I 14:46:51.930 NotebookApp] The Jupyter Notebook is running at:
+[I 14:46:51.930 NotebookApp] http://raspberrypi:8888/
+[I 14:46:51.930 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 14:46:51.958 NotebookApp] No web browser found: could not locate runnable browser.
+[W 14:46:52.161 NotebookApp] 404 GET /notebooks/bumper/src/%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA.ipynb (192.168.1.2): No such file or directory: bumper/src/图像增强.ipynb
+[W 14:46:52.377 NotebookApp] 404 GET /notebooks/bumper/src/%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA.ipynb (192.168.1.2) 220.84ms referer=http://192.168.1.3:8888/tree/bumper/src
+[I 14:46:58.785 NotebookApp] 302 GET / (192.168.1.2) 1.87ms
+[I 14:47:04.424 NotebookApp] Kernel started: 83966cfc-a48e-41a4-802d-475a86629e97
+[I 14:49:04.746 NotebookApp] Saving file at /图像增强.ipynb
+[I 14:49:28.840 NotebookApp] Kernel interrupted: 83966cfc-a48e-41a4-802d-475a86629e97
+[W 14:49:47.983 NotebookApp] 404 GET /api/contents/bumper/src?type=directory&_=1601102053704 (192.168.1.2): No such file or directory: bumper/src
+[W 14:49:47.984 NotebookApp] No such file or directory: bumper/src
+[W 14:49:47.985 NotebookApp] 404 GET /api/contents/bumper/src?type=directory&_=1601102053704 (192.168.1.2) 4.57ms referer=http://192.168.1.3:8888/tree/bumper/src
+[I 14:50:47.525 NotebookApp] Starting buffering for 83966cfc-a48e-41a4-802d-475a86629e97:5d2f350df44045798ccb62b35104d6d1
+[W 14:55:27.869 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 14:55:27.872 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 14:55:27.887 NotebookApp] Serving notebooks from local directory: /home/pi/git/bumper/src
+[I 14:55:27.887 NotebookApp] The Jupyter Notebook is running at:
+[I 14:55:27.887 NotebookApp] http://raspberrypi:8888/
+[I 14:55:27.887 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 14:55:27.900 NotebookApp] No web browser found: could not locate runnable browser.
+[I 14:55:52.184 NotebookApp] Kernel started: 93bf385a-6ffd-49ec-9901-c27e788d3c36
+[I 14:57:52.726 NotebookApp] Saving file at /图像增强.ipynb
+[W 16:50:53.146 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 16:50:53.149 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 16:50:53.164 NotebookApp] Serving notebooks from local directory: /home/pi/git/bumper/src
+[I 16:50:53.164 NotebookApp] The Jupyter Notebook is running at:
+[I 16:50:53.164 NotebookApp] http://raspberrypi:8888/
+[I 16:50:53.164 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 16:50:53.177 NotebookApp] No web browser found: could not locate runnable browser.
+[I 16:50:56.550 NotebookApp] Kernel started: afa88ea0-7450-4e5e-bcfd-14fec42433fb
+Camera control callback  cmd=0x4f525245mmal: No data received from sensor. Check all connections, including the Sunny one on the camera board
+mmal: Aborting program
+
+[I 16:51:51.915 NotebookApp] Kernel interrupted: afa88ea0-7450-4e5e-bcfd-14fec42433fb
+[I 16:52:56.972 NotebookApp] Saving file at /图像增强.ipynb
+[C 16:53:35.235 NotebookApp] received signal 15, stopping
+[I 16:53:35.237 NotebookApp] Shutting down 1 kernel
+[I 16:53:35.339 NotebookApp] Kernel shutdown: afa88ea0-7450-4e5e-bcfd-14fec42433fb
